@@ -28,7 +28,7 @@ To preserve and promote Indian handicrafts by creating a digital platform where 
 ## 📞 Contact
 
 For custom orders, business inquiries, or collaboration:
-Visit: [[https://shreelaxminarayanhh.com/contact.html](https://shreelaxminarayanhh.com/contact.html)  
+Visit: [https://shreelaxminarayanhh.com/contact.html](https://shreelaxminarayanhh.com/contact.html)  
 WhatsApp: Integrated directly on the website
 
 ## 📄 License
